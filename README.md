@@ -46,6 +46,6 @@ This project is part of the CSE0001 Digital Literacy course. It aims to develop 
 
 
 
-Student Name:Ayesha raza
-Reg No.: 25BAI10998
+Student Name:Hassaan raza
+Reg No.: 25BCG10029
 Course: CSE0001 – Digital Literacy
